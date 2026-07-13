@@ -1,0 +1,9 @@
+streamlit
+gspread
+google-auth
+pandas
+plotly
+psycopg2-binary
+SQLAlchemy
+openpyxl
+toml

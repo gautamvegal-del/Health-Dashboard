@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+
+.streamlit/secrets.toml
+service_account.json
+symbolic-math-*.json
+
+~$*.xlsx
